@@ -2,5 +2,5 @@
 // Include the class file
 require 'ClassAutoLoad.php';
 $layout->header($config);
-$forms->signup();
+$forms->signin();
 $layout->footer($config);
